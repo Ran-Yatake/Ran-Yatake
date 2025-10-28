@@ -2,16 +2,6 @@
 
 [![Top Langs](https://githubreadmestats-rouge.vercel.app/api/top-langs/?username=Ran-Yatake&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Ran-Yatake/github-readme-stats)
 
-<!-- Stats -->
-<img src="https://githubreadmestats-rouge.vercel.app/api?username=Ran-Yatake&show_icons=true&theme=tokyonight" />
-
-<!-- Top Langs -->
-<img src="https://githubreadmestats-rouge.vercel.app/api/top-langs?username=YOUR_NAME&layout=compact" />
-
-<!-- Trophy（別プロジェクト。通常は公開インスタンスでOK） -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ran-Yatake&theme=juicyfresh&no-bg=true" />
-
-
 ---
 
 ## 🧩 Skills
