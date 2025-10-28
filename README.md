@@ -34,6 +34,9 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D2EC3209D58EFEC063D965D3B98FC5D09275500D8FA95FC5DC7E0C3895197FEF">
   <img src="https://images.credly.com/size/160x160/images/488a5d49-45d6-48f2-a47a-676f67bbd2e4/SILVSE11JPN_cached_image_20251014-32-okdqz8.png" width="80">
 </a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=7161BB679B35DA3AFB02E6D83B4A82838743DAF9EB77AAD53CA48E4136CF837A">
+  <img src="https://images.credly.com/size/160x160/images/488a5d49-45d6-48f2-a47a-676f67bbd2e4/SILVSE11JPN_cached_image_20251014-32-okdqz8.png" width="80">
+</a>
 <a href="https://www.credly.com/badges/308aa0c6-378b-404f-818a-aef677a09743/public_url">
   <img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="110">
 </a>
