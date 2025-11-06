@@ -8,7 +8,7 @@
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,react,nuxt)
 
 ### ☕ Backend / Programming
-![](https://skillicons.dev/icons?i=python,java)
+![](https://skillicons.dev/icons?i=python,java,spring)
 
 ### ☁️ Cloud / Infrastructure
 ![](https://skillicons.dev/icons?i=aws,linux,docker)
