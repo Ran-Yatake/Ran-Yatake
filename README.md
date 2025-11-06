@@ -14,7 +14,7 @@
 ![](https://skillicons.dev/icons?i=aws,linux,docker)
 
 ### 🗃️ Database
-![](https://skillicons.dev/icons?i=mysql)
+![](https://skillicons.dev/icons?i=mysql,postgresql)
 
 ### 🛠️ Tools / IDE
 ![](https://skillicons.dev/icons?i=vscode,eclipse)
