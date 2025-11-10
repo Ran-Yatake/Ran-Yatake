@@ -1,4 +1,4 @@
-[![Ran-Yatake's GitHub stats](https://githubreadmestats-rouge.vercel.app/api?username=Ran-Yatake&theme=vue-dark&show_icons=true)](https://github.com/Ran-Yatake/github-readme-stats)　　[![Top Langs](https://githubreadmestats-rouge.vercel.app/api/top-langs/?username=Ran-Yatake&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Ran-Yatake/github-readme-stats)
+[![Ran-Yatake's GitHub stats](https://githubreadmestats-rouge.vercel.app/api?username=Ran-Yatake&theme=vue-dark&show_icons=true)](https://github.com/Ran-Yatake/github-readme-stats)　　[![Top Langs](https://githubreadmestats-rouge.vercel.app/api/top-langs/?username=Ran-Yatake&theme=vue-dark&hide=cython&show_icons=true&layout=compact)](https://github.com/Ran-Yatake/github-readme-stats)
 
 ---
 
