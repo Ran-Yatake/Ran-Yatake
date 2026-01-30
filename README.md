@@ -40,6 +40,9 @@
 <a href="https://www.credly.com/badges/0a847d43-85c1-4986-a48b-301432290949/public_url">
   <img src="https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110">
 </a>
+<a href="https://www.credly.com/badges/0a847d43-85c1-4986-a48b-301432290949/public_url">
+  <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110">
+</a>
 
 ---
 
